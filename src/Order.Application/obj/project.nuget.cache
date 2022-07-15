@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P/tHkZwCrO1KxtH1qsw25BpBzfH3ZfcYOgSII13Qe5pWv49GwOts5wXUc0N+xP05KlW5tVVYrCRGIIlISRF4yA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zeynels\\OneDrive - Provision\\Desktop\\RiderProjects\\DDD_OrderService\\src\\Order.Application\\Order.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zeynels\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\zeynels\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
